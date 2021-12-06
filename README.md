@@ -1,9 +1,9 @@
 # Chaos art project 
 
 
-### Chaos 1 
+### Chaos 2
 
- <img src="https://github.com/leeseomin/arising/blob/main/art/arise1.png" width="2000">
+ <img src="https://github.com/leeseomin/chaos/blob/main/art/cha2.png" width="2000">
 <br/><br/>
 
 
